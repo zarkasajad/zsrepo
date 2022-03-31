@@ -10,6 +10,9 @@ public class RESTAPITest {
 		System.out.println("postJira");
 		System.out.println("updatinggg");
 		System.out.println("updatingggagain");
+		System.out.println("postJira");
+		System.out.println("updatinggsdg");
+		System.out.println("updatingggagain");
 	}
 	
 	@Test
